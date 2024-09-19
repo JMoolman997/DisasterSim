@@ -1,0 +1,16 @@
+###- TODO -###
+- Decide how to implement GUI
+- Add user input
+    .Location (coordinates)
+    .Bomb Type (from a list)
+    .Clear Effects
+    .Detontate
+- Display Map and Map Navigation 
+- Overlay Effects on Map 
+    .Setup API (What data to take to display)
+    .Decide where the plotting should be handled
+--------------------------------------------------------------    
+###- API -### (add the functions that can called from outside)
+
+--------------------------------------------------------------
+###- NOTE --### (add any requests and/or changes) 
